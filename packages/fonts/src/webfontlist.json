@@ -113,6 +113,13 @@
 		}
 	},
 	{
+		"type": "standard",
+		"category": "sans-serif",
+		"family": "Arial",
+		"weights": ["300", "400", "500", "600", "700", "800"],
+		"preview": ""
+	},
+	{
 		"type": "web",
 		"category": "sans-serif",
 		"family": "Google Sans",
